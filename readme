@@ -1,0 +1,20 @@
+TP3
+
+Auteur: Thumereau Bryan
+
+
+Utilisation
+
+Exercice 1 : Authentification
+- Accédez à http://localhost:8080/votre-projet/Login.jsp.
+- Saisissez le login et le mot de passe. Le système affichera un message de succès ou d'échec.
+
+Exercice 2 : Résolution d'une Équation
+- Accédez à http://localhost:8080/votre-projet/Formulaire.jsp.
+- Saisissez les coefficients et soumettez le formulaire. Le résultat s'affichera avec une couleur appropriée.
+
+Exercice 3 : Gestion de la Matrice
+- Accédez à http://localhost:8080/votre-projet/matrix pour voir et interagir avec la matrice.
+- Utilisez le formulaire pour modifier la matrice ou réinitialiser la matrice à zéro.
+
+
